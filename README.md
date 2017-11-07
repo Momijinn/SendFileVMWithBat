@@ -1,0 +1,2 @@
+# SendFileVMWithBat
+VMにファイルをbatでおくる
